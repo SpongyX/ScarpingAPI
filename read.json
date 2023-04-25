@@ -1,0 +1,607 @@
+[
+    {
+        "bookName": "Harry Potter and the Goblet of Fire",
+        "bookAuthor": "J.K. Rowling",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "Harry Potter and the Order of the Phoenix",
+        "bookAuthor": "J.K. Rowling",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "Animal Farm: A Fairy Story",
+        "bookAuthor": "George Orwell",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "Of Mice and Men",
+        "bookAuthor": "John Steinbeck",
+        "bookPrice": "from: $3.59"
+    },
+    {
+        "bookName": "The Artist's Way: A Spiritual Path to Higher Creativity",
+        "bookAuthor": "Julia Cameron",
+        "bookPrice": "from: $4.79"
+    },
+    {
+        "bookName": "Goodnight Moon",
+        "bookAuthor": "Margaret Wise Brown",
+        "bookPrice": "from: $3.59"
+    },
+    {
+        "bookName": "Green Eggs and Ham",
+        "bookAuthor": "Dr. Seuss",
+        "bookPrice": "from: $3.59"
+    },
+    {
+        "bookName": "Jane Eyre",
+        "bookAuthor": "Charlotte Bront\u00eb",
+        "bookPrice": "from: $3.59"
+    },
+    {
+        "bookName": "Meditations",
+        "bookAuthor": "Marcus Aurelius",
+        "bookPrice": "from: $8.19"
+    },
+    {
+        "bookName": "Charlie and the Chocolate Factory",
+        "bookAuthor": "Roald Dahl",
+        "bookPrice": "from: $3.59"
+    },
+    {
+        "bookName": "Ender\u2019s Game",
+        "bookAuthor": "Orson Scott Card",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "Wild at Heart: Discovering the Secret of a Man's Soul",
+        "bookAuthor": "John Eldredge",
+        "bookPrice": "from: $3.59"
+    },
+    {
+        "bookName": "Prescription for Nutritional Healing: A Practical A-to-Z Reference to Drug-Free Remedies Using Vitamins, Minerals, Herbs & Food Supplements",
+        "bookAuthor": "Phyllis A. Balch",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "The Mark of Athena",
+        "bookAuthor": "Rick Riordan",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "Start with Why: How Great Leaders Inspire Everyone to Take Action",
+        "bookAuthor": "Simon Sinek",
+        "bookPrice": "from: $6.99"
+    },
+    {
+        "bookName": "Twisted Twenty-Six",
+        "bookAuthor": "Janet Evanovich",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "Eat to Live",
+        "bookAuthor": "Joel Fuhrman",
+        "bookPrice": "from: $4.19"
+    },
+    {
+        "bookName": "A Breath of Snow and Ashes",
+        "bookAuthor": "Diana Gabaldon",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "Emotional Intelligence",
+        "bookAuthor": "Daniel Goleman",
+        "bookPrice": "from: $4.19"
+    },
+    {
+        "bookName": "My Side of the Mountain",
+        "bookAuthor": "Jean Craighead George",
+        "bookPrice": "from: $3.59"
+    },
+    {
+        "bookName": "Cinder",
+        "bookAuthor": "Marissa Meyer",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "The Pout-Pout Fish",
+        "bookAuthor": "Deborah Diesen",
+        "bookPrice": "from: $3.59"
+    },
+    {
+        "bookName": "Romancing Mister Bridgerton",
+        "bookAuthor": "Julia Quinn",
+        "bookPrice": "from: $5.79"
+    },
+    {
+        "bookName": "The Dragonet Prophecy",
+        "bookAuthor": "Tui T. Sutherland",
+        "bookPrice": "from: $4.19"
+    },
+    {
+        "bookName": "The Last Thing He Told Me",
+        "bookAuthor": "Laura Dave",
+        "bookPrice": "from: $14.46"
+    },
+    {
+        "bookName": "Outlive: The Science and Art of Longevity",
+        "bookAuthor": "Peter Attia",
+        "bookPrice": "from: $28.21"
+    },
+    {
+        "bookName": "Dog Man: Twenty Thousand Fleas Under the Sea: A Graphic Novel (Dog Man #11): From the Creator of Captain Underpants",
+        "bookAuthor": "Dav Pilkey",
+        "bookPrice": "from: $14.25"
+    },
+    {
+        "bookName": "Wisdom of the Bullfrog: Leadership Made Simple (But Not Easy)",
+        "bookAuthor": "Admiral William H. McRaven",
+        "bookPrice": "from: $22.06"
+    },
+    {
+        "bookName": "The Wisdom of Morrie: Living and Aging Creatively and Joyfully",
+        "bookAuthor": "Morrie Schwartz",
+        "bookPrice": "from: $23.03"
+    },
+    {
+        "bookName": "Hello Beautiful",
+        "bookAuthor": "Ann Napolitano",
+        "bookPrice": "from: $24.50"
+    },
+    {
+        "bookName": "Berserk Deluxe Volume 14",
+        "bookAuthor": "",
+        "bookPrice": "from: $42.01"
+    },
+    {
+        "bookName": "The Met Flex Diet",
+        "bookAuthor": "Ian K. Smith",
+        "bookPrice": "from: $26.04"
+    },
+    {
+        "bookName": "What I Love about You",
+        "bookAuthor": "",
+        "bookPrice": "from: $18.03"
+    },
+    {
+        "bookName": "You're Going to Make It: 50 Morning and Evening Devotions to Unrush Your Mind, Uncomplicate Your Heart, and Experience Healing Today",
+        "bookAuthor": "Lysa TerKeurst",
+        "bookPrice": "from: $15.99"
+    },
+    {
+        "bookName": "Happy Place",
+        "bookAuthor": "Emily Henry",
+        "bookPrice": "from: $23.84"
+    },
+    {
+        "bookName": "Get Trump: The Threat to Civil Liberties, Due Process, and Our Constitutional Rule of Law",
+        "bookAuthor": "Alan Dershowitz",
+        "bookPrice": "from: $23.65"
+    },
+    {
+        "bookName": "Things We Hide from the Light",
+        "bookAuthor": "Lucy Score",
+        "bookPrice": "from: $17.35"
+    },
+    {
+        "bookName": "Dark Angel",
+        "bookAuthor": "John Sandford",
+        "bookPrice": "from: $26.20"
+    },
+    {
+        "bookName": "Hang the Moon: A Novel",
+        "bookAuthor": "Jeannette Walls",
+        "bookPrice": "from: $24.64"
+    },
+    {
+        "bookName": "Baking Yesteryear: The Best Recipes from the 1900s to the 1980s",
+        "bookAuthor": "B. Dylan Hollis",
+        "bookPrice": "from: $27.83"
+    },
+    {
+        "bookName": "Trejo's Cantina: Snacks, Cocktails, and Amazing Non-Alcoholic Drinks from the Heart of Hollywood",
+        "bookAuthor": "Danny Trejo",
+        "bookPrice": "from: $25.26"
+    },
+    {
+        "bookName": "I Swear: Politics Is Messier Than My Minivan",
+        "bookAuthor": "Katie Porter",
+        "bookPrice": "from: $20.70"
+    },
+    {
+        "bookName": "Romantic Comedy",
+        "bookAuthor": "Curtis Sittenfeld",
+        "bookPrice": "from: $24.64"
+    },
+    {
+        "bookName": "Built to Move: The Ten Essential Habits to Help You Move Freely and Fully",
+        "bookAuthor": "Kelly Starrett",
+        "bookPrice": "from: $24.64"
+    },
+    {
+        "bookName": "Never Never",
+        "bookAuthor": "Colleen Hoover",
+        "bookPrice": "from: $14.28"
+    },
+    {
+        "bookName": "Icebreaker",
+        "bookAuthor": "Hannah Grace",
+        "bookPrice": "from: $16.46"
+    },
+    {
+        "bookName": "Heart Bones",
+        "bookAuthor": "Colleen Hoover",
+        "bookPrice": "from: $16.37"
+    },
+    {
+        "bookName": "Got Your Number: The Greatest Sports Legends and the Numbers They Own",
+        "bookAuthor": "Mike Greenberg",
+        "bookPrice": "from: $23.03"
+    },
+    {
+        "bookName": "Young Forever: The Secrets to Living Your Longest, Healthiest Life",
+        "bookAuthor": "Mark Hyman",
+        "bookPrice": "from: $25.29"
+    },
+    {
+        "bookName": "Tuesdays with Morrie",
+        "bookAuthor": "Mitch Albom",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "Dark Places",
+        "bookAuthor": "Gillian Flynn",
+        "bookPrice": "from: $4.09"
+    },
+    {
+        "bookName": "A Thousand Splendid Suns",
+        "bookAuthor": "Khaled Hosseini",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "The Picture of Dorian Gray",
+        "bookAuthor": "Oscar Wilde",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "Brown Bear, Brown Bear, What Do You See?",
+        "bookAuthor": "Eric Carle",
+        "bookPrice": "from: $3.59"
+    },
+    {
+        "bookName": "If You Give a Moose a Muffin",
+        "bookAuthor": "Laura Joffe Numeroff",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "Big Little Lies",
+        "bookAuthor": "Liane Moriarty",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "The Mouse and the Motorcycle",
+        "bookAuthor": "Beverly Cleary",
+        "bookPrice": "from: $3.59"
+    },
+    {
+        "bookName": "The Fault in Our Stars",
+        "bookAuthor": "John Green",
+        "bookPrice": "from: $3.59"
+    },
+    {
+        "bookName": "Fifty Shades of Grey",
+        "bookAuthor": "E.L. James",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "The Magician\u2019s Nephew",
+        "bookAuthor": "C.S. Lewis",
+        "bookPrice": "from: $3.59"
+    },
+    {
+        "bookName": "Dog Days",
+        "bookAuthor": "Jeff Kinney",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "The Little Engine That Could",
+        "bookAuthor": "Watty Piper",
+        "bookPrice": "from: $3.59"
+    },
+    {
+        "bookName": "A Storm of Swords",
+        "bookAuthor": "George R.R. Martin",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "The Third Wheel",
+        "bookAuthor": "Jeff Kinney",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "2nd Chance",
+        "bookAuthor": "James Patterson",
+        "bookPrice": "from: $3.59"
+    },
+    {
+        "bookName": "Girl, Wash Your Face: Stop Believing the Lies About Who You Are so You Can Become Who You Were Meant to Be",
+        "bookAuthor": "Rachel Hollis",
+        "bookPrice": "from: $4.19"
+    },
+    {
+        "bookName": "Pippi L\u00e5ngstrump",
+        "bookAuthor": "Astrid Lindgren",
+        "bookPrice": "from: $3.59"
+    },
+    {
+        "bookName": "The Lovely Bones",
+        "bookAuthor": "Alice Sebold",
+        "bookPrice": "from: $4.19"
+    },
+    {
+        "bookName": "A Walk in the Woods: Rediscovering America on the Appalachian Trail",
+        "bookAuthor": "Bill Bryson",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "A Time to Kill",
+        "bookAuthor": "John Grisham",
+        "bookPrice": "from: $4.19"
+    },
+    {
+        "bookName": "The Target",
+        "bookAuthor": "David Baldacci",
+        "bookPrice": "from: $3.59"
+    },
+    {
+        "bookName": "On Writing Well: The Classic Guide to Writing Nonfiction",
+        "bookAuthor": "William Zinsser",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "Bear Stays Up for Christmas",
+        "bookAuthor": "Karma Wilson",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "Where the Crawdads Sing",
+        "bookAuthor": "Delia Owens",
+        "bookPrice": "from: $4.99"
+    },
+    {
+        "bookName": "Nineteen Eighty-Four",
+        "bookAuthor": "George Orwell",
+        "bookPrice": "from: $5.09"
+    },
+    {
+        "bookName": "Brave New World",
+        "bookAuthor": "Aldous Huxley",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "Gone Girl",
+        "bookAuthor": "Gillian Flynn",
+        "bookPrice": "from: $4.19"
+    },
+    {
+        "bookName": "The Old Man and the Sea",
+        "bookAuthor": "Ernest Hemingway",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "One Hundred Years of Solitude",
+        "bookAuthor": "Gabriel Garc\u00eda M\u00e1rquez",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "Where the Red Fern Grows",
+        "bookAuthor": "Wilson Rawls",
+        "bookPrice": "from: $3.59"
+    },
+    {
+        "bookName": "A Game of Thrones",
+        "bookAuthor": "George R.R. Martin",
+        "bookPrice": "from: $4.19"
+    },
+    {
+        "bookName": "And Then There Were None",
+        "bookAuthor": "Agatha Christie",
+        "bookPrice": "from: $4.42"
+    },
+    {
+        "bookName": "Divergent",
+        "bookAuthor": "Veronica Roth",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "The Secret",
+        "bookAuthor": "Rhonda Byrne",
+        "bookPrice": "from: $4.19"
+    },
+    {
+        "bookName": "The Sea of Monsters",
+        "bookAuthor": "Rick Riordan",
+        "bookPrice": "from: $3.59"
+    },
+    {
+        "bookName": "Lies My Teacher Told Me: Everything Your American History Textbook Got Wrong",
+        "bookAuthor": "James W. Loewen",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "Emma",
+        "bookAuthor": "Jane Austen",
+        "bookPrice": "from: $3.59"
+    },
+    {
+        "bookName": "Owl Moon",
+        "bookAuthor": "Jane Yolen",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "Murder on the Orient Express",
+        "bookAuthor": "Agatha Christie",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "Me Before You",
+        "bookAuthor": "Jojo Moyes",
+        "bookPrice": "from: $4.19"
+    },
+    {
+        "bookName": "A Minute to Midnight",
+        "bookAuthor": "David Baldacci",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "Courage to Change: One Day at a Time in Al-Anon II",
+        "bookAuthor": "Al-Anon Family Groups",
+        "bookPrice": "from: $6.59"
+    },
+    {
+        "bookName": "The Long Haul",
+        "bookAuthor": "Jeff Kinney",
+        "bookPrice": "from: $3.59"
+    },
+    {
+        "bookName": "Last Stop on Market Street",
+        "bookAuthor": "Matt de la Pe\u00f1a",
+        "bookPrice": "from: $2.99"
+    },
+    {
+        "bookName": "The Celestine Prophecy",
+        "bookAuthor": "James Redfield",
+        "bookPrice": "from: $4.19"
+    },
+    {
+        "bookName": "Caps for Sale: A Tale of a Peddler, Some Monkeys and Their Monkey Business",
+        "bookAuthor": "Esphyr Slobodkina",
+        "bookPrice": "from: $3.59"
+    },
+    {
+        "bookName": "Circe",
+        "bookAuthor": "Madeline Miller",
+        "bookPrice": "from: $15.52"
+    },
+    {
+        "bookName": "The Lion, the Witch and the Wardrobe",
+        "bookAuthor": "C.S. Lewis",
+        "bookPrice": "from: $3.59"
+    },
+    {
+        "bookName": "Man's Search for Meaning",
+        "bookAuthor": "Viktor E. Frankl",
+        "bookPrice": "from: $4.19"
+    },
+    {
+        "bookName": "The Art of War",
+        "bookAuthor": "Sun Tzu",
+        "bookPrice": "from: $2.99"
+    },
+    {
+        "bookName": "The Giving Tree",
+        "bookAuthor": "Shel Silverstein",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "The Kite Runner",
+        "bookAuthor": "Khaled Hosseini",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "Holes",
+        "bookAuthor": "Louis Sachar",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "Looking for Alaska",
+        "bookAuthor": "John Green",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "The Case for Christ",
+        "bookAuthor": "Lee Strobel",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
+        "bookAuthor": "Judith Viorst",
+        "bookPrice": "from: $3.59"
+    },
+    {
+        "bookName": "The Vanishing Half",
+        "bookAuthor": "Brit Bennett",
+        "bookPrice": "from: $4.49"
+    },
+    {
+        "bookName": "A Short History of Nearly Everything",
+        "bookAuthor": "Bill Bryson",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "Midnight in the Garden of Good and Evil",
+        "bookAuthor": "John Berendt",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "A Clockwork Orange",
+        "bookAuthor": "Anthony Burgess",
+        "bookPrice": "from: $4.79"
+    },
+    {
+        "bookName": "\u001a\u001a\u001a",
+        "bookAuthor": "Lao Tzu",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "The Kissing Hand",
+        "bookAuthor": "Audrey Penn",
+        "bookPrice": "from: $3.59"
+    },
+    {
+        "bookName": "Born a Crime: Stories from a South African Childhood",
+        "bookAuthor": "Trevor Noah",
+        "bookPrice": "from: $4.79"
+    },
+    {
+        "bookName": "Rodrick Rules",
+        "bookAuthor": "Jeff Kinney",
+        "bookPrice": "from: $3.59"
+    },
+    {
+        "bookName": "Dune Messiah",
+        "bookAuthor": "Frank Herbert",
+        "bookPrice": "from: $4.59"
+    },
+    {
+        "bookName": "The Boy in the Striped Pyjamas",
+        "bookAuthor": "John Boyne",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "The Graveyard Book",
+        "bookAuthor": "Neil Gaiman",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "The 19th Christmas",
+        "bookAuthor": "James Patterson",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "The Last Olympian",
+        "bookAuthor": "Rick Riordan",
+        "bookPrice": "from: $4.19"
+    },
+    {
+        "bookName": "Blueberries for Sal",
+        "bookAuthor": "Robert McCloskey",
+        "bookPrice": "from: $3.99"
+    },
+    {
+        "bookName": "Alexander Hamilton",
+        "bookAuthor": "Ron Chernow",
+        "bookPrice": "from: $3.99"
+    }
+]
