@@ -29,11 +29,11 @@ book_prices = browser.find_elements(By.CSS_SELECTOR, ".BookSlider-price")
 #     port=5432
 # )
 conn = psycopg2.connect(
-   host = 'ep-lucky-limit-610252.eu-central-1.aws.neon.tech',
+    host='ep-lucky-limit-610252.eu-central-1.aws.neon.tech',
     database='neondb',
     user='moh',
     password='fe61CRBNptZO',
-    #port=5432
+    # port=5432
 )
 
 cursor = conn.cursor()
@@ -65,6 +65,42 @@ browser.execute_script("console.log('{}')".format(json_string))
 conn.commit()
 cursor.close()
 conn.close()
+
+
+# Get ALL
+@app.route('/get_books', methods=['GET'])
+def get_data():
+    try:
+        conn = psycopg2.connect(
+            host='ep-lucky-limit-610252.eu-central-1.aws.neon.tech',
+            database='neondb',
+            user='moh',
+            password='fe61CRBNptZO',
+            # port=5432
+        )
+        cur = conn.cursor()
+        query = '''SELECT * FROM books'''
+        data = []
+
+        cur.execute(query)
+        results = cur.fetchall()
+        for row in results:
+            data.append(
+                {
+                    'id': row[0],
+                    'title': row[1],
+                    'author': row[2],
+                    'price': row[3],
+                    'created_at': row[6],
+                    'updated_at': row[7]
+                })
+        cur.close()
+        conn.close()
+        return data
+    except (Exception, psycopg2.Error) as error:
+        print(error)
+        return jsonify({'error': 'Failed to fetch data from database'}), 500
+
 
 # Run without debug mode when deploying
 if __name__ == '__main__':
