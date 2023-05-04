@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="js/script.js"></script>
+    <title>Scrape The Data</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Run scrape_data function </h1>
+    <button onclick="scrapeData()" id="scrapeBtn">Scrape Now!</button>
+    </div>
+    
+    </div>
+</body>
+</html>
+
+<script>
+    function scrapeData() {
+    fetch('/scrape', {
+        method: 'POST'
+    })
+    .then(response => response.json())
+    .then(data => console.log(data))
+    .catch(error => console.error(error));
+}
+</script>
